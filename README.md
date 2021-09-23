@@ -9,16 +9,16 @@ This project is an implementation of a Design i found on [uplabs.com](https://ww
 
 ## Art
 
-<img src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshot/main.png" width="100%"  height="50%"/>
+<img src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshots/main.png" width="100%"  height="50%"/>
 <br>
    
 <tr>
-    <td><img align="left" src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshot/image_1.png?raw=true" width="200" height="400"/></td>
-    <td><img src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshot/image_2.png?raw=true" width="200" height="400"/></td> 
+    <td><img align="left" src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshots/image_1.png?raw=true" width="200" height="400"/></td>
+    <td><img src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshots/image_2.png?raw=true" width="200" height="400"/></td> 
 </tr>
 <tr>
-    <td><img align="left" src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshot/image_3.png?raw=true" width="200" height="400"/></td>
-    <td><img src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshot/image_4.png?raw=true" width="200" height="400"/></td> 
+    <td><img align="left" src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshots/image_3.png?raw=true" width="200" height="400"/></td>
+    <td><img src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshots/image_4.png?raw=true" width="200" height="400"/></td> 
 </tr>
 
 ## Getting Started
