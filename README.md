@@ -1,6 +1,19 @@
-# foto_gallery_app
+# Foto Gallery Mobile App
 
-A new Flutter project.
+This is a flutter mobile app that displays images post built during my Pre tech training.
+
+## Screenshots
+
+
+<img align="left" src="https://github.com/Hidaya-Bamba/MyFotoGalleryApp-App/blob/main/screenshots/image_1.png?raw=true" width="200" height="400"/>
+<img align="left" src="https://github.com/Hidaya-Bamba/MyFotoGalleryApp-App/blob/main/screenshots/image_1.png?raw=true" width="200" height="400"/>
+<br>
+<img align="left" src="https://github.com/Hidaya-Bamba/MyFotoGalleryApp-App/blob/main/screenshots/image_1.png?raw=true" width="200" height="400"/>
+
+<img align="left" src="https://github.com/Hidaya-Bamba/MyFotoGalleryApp-App/blob/main/screenshots/image_1.png?raw=true" width="200" height="400"/>
+
+
+
 
 ## Getting Started
 
